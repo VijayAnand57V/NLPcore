@@ -1,5 +1,6 @@
-# Download Stanford NLP Library at https://stanfordnlp.github.io/CoreNLP/download.html
+# Stanford NLP Library at https://stanfordnlp.github.io/CoreNLP/download.html can downloaded here.
 # Navigate to your stanford NLP path and run this :- java -mx6g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -timeout 50000
+# While running the above command in the terminal open another terminal to run the below code.
 
 from pycorenlp import StanfordCoreNLP
 
